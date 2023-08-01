@@ -1,7 +1,5 @@
 ### Hi there 小江的前端之路! 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=845415120&locale=zh_Hans)](https://git.io/streak-stats)<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 👨‍💻 编程语言
 
 <p>
@@ -24,7 +22,7 @@
 <!--     <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a> -->
 <!--     <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href=" https://cn.vuejs.org/"><img alt="Vue" src=" https://img.shields.io/badge/vue.js-%E2%80%8E-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+    <a href=" https://cn.vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/vue.js-%E2%80%8E-4FC08D.svg?logo=vue.js&logoColor=black"></a>
        <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="https://wordpress.com/"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
@@ -59,3 +57,4 @@
 <!--     <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-302E31?logo=sublime-text&logoColor=white"></a> -->
 
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
