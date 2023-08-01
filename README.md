@@ -14,8 +14,7 @@
 <p>
     <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="https://cn.vuejs.org/"><img alt="Vue" src="https://img.shields.io/badge/vue-write?logo=vuedotjs&labelColor=%23ffffff"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/npm-black?logo=npm&labelColor=%23ffffff
-"></a>
+    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/npm-black?logo=npm&labelColor=%23ffffff"></a>
 </p>
 
 ### 🗄️ 云部署和数据库
@@ -23,8 +22,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="https://vercel.com/dashboard"><img alt="vercel" src="https://img.shields.io/badge/vercel-black?logo=vercel"></a>
-    <a href="https://dashboard.render.com/"><img alt="render" src="https://img.shields.io/badge/render-black?logo=render&labelColor=%23ffffff
-"></a>
+    <a href="https://dashboard.render.com/"><img alt="render" src="https://img.shields.io/badge/render-black?logo=render&labelColor=%23ffffff"></a>
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 </p>
 
