@@ -1,5 +1,6 @@
 ### Hi there 小江的前端之路! 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=845415120&locale=zh_Hans)](https://git.io/streak-stats)<br/>
+<a href="https://app.daily.dev/jiang0pl"><img src="https://api.daily.dev/devcards/30af2e5f2f2b4735a849cb04b79b0ce9.png?r=7fu" width="400" alt="jiang's Dev Card"/></a>
 
 ### 👨‍💻 编程语言
 <p>
