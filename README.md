@@ -1,6 +1,6 @@
 ### Hi there 小江的前端之路! 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=845415120&locale=zh_Hans)](https://git.io/streak-stats)<br/>
-<a href="https://app.daily.dev/jiang0pl"><img src="https://api.daily.dev/devcards/30af2e5f2f2b4735a849cb04b79b0ce9.png?r=7fu" width="400" alt="jiang's Dev Card"/></a>
+
 
 ### 👨‍💻 编程语言
 <p>
@@ -37,5 +37,5 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
-
+<a href="https://app.daily.dev/jiang0pl"><img src="https://api.daily.dev/devcards/30af2e5f2f2b4735a849cb04b79b0ce9.png?r=7fu" width="400" alt="jiang's Dev Card"/></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
