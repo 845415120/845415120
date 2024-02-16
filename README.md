@@ -38,7 +38,7 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 <div style="display: flex;">
-    <a href="https://app.daily.dev/jiang0pl"><img src="https://api.daily.dev/devcards/30af2e5f2f2b4735a849cb04b79b0ce9.png?r=7fu" width="100" height="100" alt="jiang's Dev Card"/></a>
+    <a href="https://app.daily.dev/jiang0pl"><img src="https://api.daily.dev/devcards/30af2e5f2f2b4735a849cb04b79b0ce9.png?r=7fu" width="100" height="220" alt="jiang's Dev Card"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Languages" />
 </div>
 
